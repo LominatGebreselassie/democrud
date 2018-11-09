@@ -20,6 +20,8 @@ import mum.swe.democrud.service.StudentService;
 @Controller
 public class StudentController {
 	
+	
+	// this is the sudent service 
 	@Autowired
 	private StudentService studentService;
 
